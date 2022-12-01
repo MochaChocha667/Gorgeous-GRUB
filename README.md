@@ -61,3 +61,4 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
 |[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|-|
+Hi Jack!
